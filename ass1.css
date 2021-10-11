@@ -1,0 +1,143 @@
+body {
+  background-image: url("files/bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.bar{
+  height: 50px;
+  width: 100%;
+}
+
+.mypic{
+  float: right;
+  width: 30%;
+   height:65%;
+   margin-left:15px;
+}
+.text{
+  color: black;
+  font-size: 25px;
+  font-family: "Lucida Console";
+}
+
+.ele {
+  color: black;
+  text-decoration: none;
+}
+#time {
+  padding: 15px;
+}
+#date {
+  padding: 15px;
+}
+.bar a:hover {
+  background-color:yellow;
+  height: 20px;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+table,td {
+  background-color:white;
+  border-style: solid;
+  font-size: 20px;
+  padding: 10px;
+}
+th{
+  background-color:grey;
+  border-style: solid;
+  font-size: 25px;
+  padding: 10px;
+}
+.p2{
+  background-color:hsl(135, 97%, 63%);
+  border-style: solid;
+  font-size: 25px;
+  padding: 10px;
+}
+.bar{
+  background-color: mediumseagreen;
+  font-size: 30px;
+}
+.p1{
+  background-color:rgb(240, 247, 141);
+  border-style: solid;
+  font-size: 25px;
+  padding: 10px;
+}
+#date{
+  float: right;
+}
+#time{
+  float: right;
+}
+#date:hover{
+  background-color: mediumseagreen;
+}
+#time:hover{
+  background-color: mediumseagreen;
+}
+#img3{
+  width:450px;
+  height:300px;
+  float:left;
+  padding:15px;
+}
+#img2{
+width:430px;
+height:300px;
+float:left;
+padding:15px;
+}
+#img1{
+  width:450px;
+  height:300px;
+  float:left;
+  padding:15px;
+}
+.column1{
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+.column2{
+  float: right;
+  width: 50%;
+  padding: 10px;
+}
+.proj1pic{
+  width: 100%;
+}
+.proj2pic{
+  width: 100%;
+}
+.abt{
+  font-size: 29px;
+}
+.abt2{
+  font-size: 40px;
+}
+.ele{
+  float: left;
+  padding: 15px;
+}
+#tb{
+  width: 80%;
+}
+#tinhome {
+  padding-left: 100px;
+  text-align: center;
+  height: 100%;
+  width: 50%;
+  
+}
+#hede{
+  color: rgb(10, 10, 238);
+  font-size: 80px;
+  text-align: center;
+}
